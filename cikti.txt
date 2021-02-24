@@ -1,0 +1,7 @@
+Kocaeli ---> İstanbul= 111
+İstanbul--->Ankara= 453
+Ankara--->Ordu= 501
+Ordu--->Giresun= 44
+Giresun--->Tunceli= 426
+Tunceli---> Kocaeli= 1160
+Total yol: 2695
